@@ -20,18 +20,7 @@ Users can input medical parameters (Age, BMI, HbA1c, Triglycerides) through a we
 - **Backend**: Flask (Python)  
 - **Machine Learning**: Scikit-learn  
 - **Frontend**: HTML, Bootstrap  
-- **Model Storage**: Pickle (`.pkl`)  
-
----
-
-## 📂 Project Structure
-Diabetes-Prediction/
-│-- app.py # Flask application
-│-- requirements.txt # Dependencies
-│-- diabetes_prediction_pipeline.pkl # Trained ML model
-│-- templates/
-│ └── index.html # Frontend template
-│-- README.md # Project documentation
+- **Model Storage**: Pickle (`.pkl`)
 
 ---
 
