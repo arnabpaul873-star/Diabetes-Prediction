@@ -3,7 +3,7 @@
 A Flask web application for **Diabetes prediction** using a trained Machine Learning pipeline.  
 Users can input medical parameters (Age, BMI, HbA1c, Triglycerides) through a web form, and the app predicts the likelihood of Diabetes.  
 
-🌐 **Live Demo**: [Diabetes Prediction App](https://diabetes-prediction-d0jif.onrender.com)
+🌐 **Live Demo**: [Diabetes Prediction App](https://diabetes-gfj9.onrender.com/)
 
 ---
 
